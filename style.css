@@ -1,0 +1,15 @@
+.myname {
+    margin: 20px 522px;
+    font-size: 50px;
+}
+
+.information {
+    margin: 30px 250px;
+    font-size: 20px;
+}
+
+.photo {
+    margin: 20px 450px;
+    border-radius: 100px;
+    border: 2px solid;
+}
